@@ -1,6 +1,7 @@
 <?php
 /*
 Auhtor: Davit G.
+Date: 2017
 */
 header('Content-Type: application/json');
 include("apay/pay.api.php");
