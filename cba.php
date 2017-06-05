@@ -1,4 +1,7 @@
 <?php
+/*
+Auhtor: Davit G.
+*/
 header('Content-Type: application/json');
 include("apay/pay.api.php");
 include("apay/iso4217.php");
